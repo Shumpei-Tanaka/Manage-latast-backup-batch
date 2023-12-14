@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
-![GitHub release (latest SemVer)][release-shield]![GitHub License][license-shield]
+[![GitHub release (latest SemVer)][release-shield]][release-url][![GitHub License][license-shield]][license-url]
 
 [![Issues][issues-shield]][issues-url]
 
@@ -141,9 +141,10 @@ See LICENSE for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[release-shield]:https://img.shields.io/github/v/release/Shumpei-Tanaka/manage-latest-backup-batch?style=flat-squere&sort=semver
+[release-shield]:https://img.shields.io/github/v/release/Shumpei-Tanaka/Manage-latest-backup-batch?style=flat-squere&sort=semver
+[release-url]:https://github.com/Shumpei-Tanaka/manage-latest-backup-batch/releases/latest
 [license-shield]:https://img.shields.io/github/license/Shumpei-Tanaka/Manage-latest-backup-batch?flat-squere
-
+[license-url]:/license.md
 [issues-shield]: https://img.shields.io/github/issues/Shumpei-Tanaka/manage-latest-backup-batch.svg?style=flat-squere
 [issues-url]: https://github.com/Shumpei-Tanaka/manage-latest-backup-batch/issues
 
