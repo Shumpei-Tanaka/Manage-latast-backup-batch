@@ -48,6 +48,7 @@
 
 - "manage-latest-backup.bat"を実行
 ![after exec once](/docs/assets/0001-exec-fisrt.png)
+
  - latest,oldフォルダの中身
 ![inside of latast and latest](/docs/assets/0002-result1.png)
 
