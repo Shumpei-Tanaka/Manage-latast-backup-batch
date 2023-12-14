@@ -136,16 +136,16 @@ See LICENSE for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [release-shield]:https://img.shields.io/github/v/release/Shumpei-Tanaka/manage-latest-backup-batch?style=flat-squere&sort=semver
-[license-shield]:https://img.shields.io/github/license/Shumpei-Tanaka/manage-latest-backup-batch?flat-squere
+[license-shield]:https://img.shields.io/github/license/Shumpei-Tanaka/Manage-latest-backup-batch?flat-squere
 
 [issues-shield]: https://img.shields.io/github/issues/Shumpei-Tanaka/manage-latest-backup-batch.svg?style=flat-squere
 [issues-url]: https://github.com/Shumpei-Tanaka/manage-latest-backup-batch/issues
 
 [contributors-shield]: https://img.shields.io/github/contributors/Shumpei-Tanaka/manage-latest-backup-batch.svg?style=flat-squere
 [contributors-url]: https://github.com/Shumpei-Tanaka/manage-latest-backup-batch/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Shumpei-Tanaka/manage-latest-backup-batch.svg?style=flat-squere
+[forks-shield]: https://img.shields.io/github/forks/Shumpei-Tanaka/Manage-latest-backup-batch.svg?style=flat-squere
 [forks-url]: https://github.com/Shumpei-Tanaka/manage-latest-backup-batch/network/members
-[stars-shield]: https://img.shields.io/github/stars/Shumpei-Tanaka/manage-latest-backup-batch.svg?style=flat-squere
+[stars-shield]: https://img.shields.io/github/stars/Shumpei-Tanaka/Manage-latest-backup-batch.svg?style=flat-squere
 [stars-url]: https://github.com/Shumpei-Tanaka/manage-latest-backup-batch/stargazers
 
 
