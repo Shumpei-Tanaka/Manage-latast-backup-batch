@@ -44,24 +44,29 @@
 ## Demo
 
 - 最初の状態
-![first state](/docs/assets/0000-first-state.png)
+    
+    ![first state](/docs/assets/0000-first-state.png)
 
 - "manage-latest-backup.bat"を実行
-![after exec once](/docs/assets/0001-exec-fisrt.png)
+    
+    ![after exec once](/docs/assets/0001-exec-fisrt.png)
 
  - latest,oldフォルダの中身
-![inside of latast and latest](/docs/assets/0002-result1.png)
+    
+    ![inside of latast and latest](/docs/assets/0002-result1.png)
 
 - "manage-latest-backup.bat" 再度実行
   - 何もしない
-![after exec twice](/docs/assets/0002-result1.png)
+    
+    ![after exec twice](/docs/assets/0002-result1.png)
 
 - readme.mdになにか変更を加える
 
 - "manage-latest-backup.bat" をさらにもう一度実行
   - 最新版のバックアップを作る
   - 古くなったバックアップがoldに送られる
-![after exec with changes](/docs/assets/0004-result3.png)
+    
+    ![after exec with changes](/docs/assets/0004-result3.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

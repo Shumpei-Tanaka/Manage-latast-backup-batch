@@ -44,25 +44,29 @@
 ## Demo
 
 - first state
-
-![first state](/docs/assets/0000-first-state.png)
+  
+  ![first state](/docs/assets/0000-first-state.png)
 
 - exec "manage-latest-backup.bat".
-![after exec once](/docs/assets/0001-exec-fisrt.png)
+  
+  ![after exec once](/docs/assets/0001-exec-fisrt.png)
 
  - inside these.
-![inside of latast and latest](/docs/assets/0002-result1.png)
+    
+    ![inside of latast and latest](/docs/assets/0002-result1.png)
 
 - exec "manage-latest-backup.bat" again.
   - it works "nothing"
-![after exec twice](/docs/assets/0002-result1.png)
+  
+  ![after exec twice](/docs/assets/0002-result1.png)
 
 - make any changes to the readme.md.
 
 - exec "manage-latest-backup.bat" again.
   - latest backup is updated.
   - outdate backup is moved to old.
-![after exec with changes](/docs/assets/0004-result3.png)
+  
+  ![after exec with changes](/docs/assets/0004-result3.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
